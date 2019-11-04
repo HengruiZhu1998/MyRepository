@@ -1,3 +1,3 @@
 # MyRepository
-Witness my Growth
+Witness my Growth.
 Hello, World!
